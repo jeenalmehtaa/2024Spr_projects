@@ -42,5 +42,5 @@ def calc_proportion(ev_by_county):
     ev_by_county["Proportion"] = ev_by_county['Electric Vehicle (EV) Total'] / ev_by_county['Total Vehicles']
     return ev_by_county
 
-filename = "/Users/peeyu/PycharmProjects/2024Spr_projects/datasets/ev_by_county.csv"
+filename = "/datasets/ev_by_county.csv"
 print(calc_proportion(clean_data(read_data(filename))))
