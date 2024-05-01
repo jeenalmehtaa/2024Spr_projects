@@ -46,5 +46,3 @@ def calc_proportion(ev_by_county):
     return ev_by_county
 
 
-filename = "/datasets/ev_by_county.csv"
-print(calc_proportion(clean_data(read_data(filename))))

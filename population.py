@@ -25,9 +25,3 @@ def calculate_average_population_density(df_pop):
         columns={"Total_Population_Density": "Avg_Total_Population_Density", "COUNTY_NAME": "County"})
     df_pop_cleaned = df_pop[["County", "Avg_Total_Population_Density"]]
     return df_pop_cleaned
-
-
-population_filename = "/Users/peeyu/PycharmProjects/2024Spr_projects/datasets/population_data.csv"
-population_data = read_population_data(population_filename)
-average_population_density = calculate_average_population_density(population_data)
-print(average_population_density)
