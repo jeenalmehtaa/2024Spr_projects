@@ -16,8 +16,8 @@ By investigating these hypotheses, we hope to gain insights into the factors inf
 ### Hypotheses
 
 1. Counties in WA State with higher average population density tend to exhibit higher electric vehicle adoption rates.
-2. @Jeenal please add
-3. @Jeenal please add 
+2. Counties with higher average incomes are more likely to have a higher proportion of electric vehicles (EVs) than counties with lower average incomes.
+3. Demographics belonging to "Hispanic/Latino" racial group have bought more EVs than other racial groups across all counties. 
 4. In counties where there is a higher average number of students, indicative of greater educational attainment, there will be a corresponding increase in the proportion of electric vehicle (EV) adoption.
 
 ### References
@@ -26,6 +26,8 @@ By investigating these hypotheses, we hope to gain insights into the factors inf
 - Electric Vehicle Population Size History By County: https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county
 - Report Card Enrollment: https://catalog.data.gov/dataset/report-card-enrollment-2023-24-school-year
 - Population Density By County: https://catalog.data.gov/dataset/waofm-april-1-population-density-by-county-2000-to-present
+- Office of Financial Management, Washington: https://ofm.wa.gov/washington-data-research/statewide-data/washington-trends/economic-trends/washington-and-us-average-wages/average-wages-county-map
+- Bureau of Economic Analysis, Regional Economic Accounts - https://apps.bea.gov/regional/downloadzip.htm?_gl=1*1dgd84*_ga*NjEyNDAzMTQ3LjE3MTQ1Mzc1ODA.*_ga_J4698JNNFT*MTcxNDU0MTA5Ni4yLjEuMTcxNDU0MTExNi40MC4wLjA
 - ChatGPT: https://chat.openai.com/
 - Claude AI: https://claude.ai/chats
 
