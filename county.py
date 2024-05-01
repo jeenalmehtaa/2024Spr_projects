@@ -42,7 +42,7 @@ def calc_proportion(ev_by_county):
     :return: final dataframe for analysis
     """
 
-    ev_by_county["Proportion"] = ev_by_county['Electric Vehicle (EV) Total'] / ev_by_county['Total Vehicles']
+    ev_by_county["Proportion"] = (ev_by_county['Electric Vehicle (EV) Total'] / ev_by_county['Total Vehicles'])*100
     return ev_by_county
 
 
