@@ -27,7 +27,3 @@ def clean_education_data(df_education):
     df_education = df_education[["County", "All Students"]]
     df_education.rename(columns={"All Students": "Number of Students"}, inplace=True)
     return df_education
-
-
-filename = "/Users/peeyu/PycharmProjects/2024Spr_projects/datasets/education_data.csv"
-read_education_data(filename)
