@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def read_data(filename):
+def read_county_data(filename):
     """
     reads ev_by_county dataset
     :param filename: path to the dataset
@@ -12,7 +12,7 @@ def read_data(filename):
     return df_county
 
 
-def clean_data(ev_by_county):
+def clean_county_data(ev_by_county):
     """
     cleans ev_by_county dataframe
     > checks for missing values
