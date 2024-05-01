@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def read_data(filename):
     """
     reads ev_by_county dataset
@@ -9,6 +10,7 @@ def read_data(filename):
 
     df_county = pd.read_csv(filename)
     return df_county
+
 
 def clean_data(ev_by_county):
     """
@@ -32,6 +34,7 @@ def clean_data(ev_by_county):
     ev_by_county.reset_index(drop=True, inplace=True)
     return ev_by_county
 
+
 def calc_proportion(ev_by_county):
     """
     calculates and inserts a new column called proportion of EVs
@@ -41,6 +44,7 @@ def calc_proportion(ev_by_county):
 
     ev_by_county["Proportion"] = ev_by_county['Electric Vehicle (EV) Total'] / ev_by_county['Total Vehicles']
     return ev_by_county
+
 
 filename = "/datasets/ev_by_county.csv"
 print(calc_proportion(clean_data(read_data(filename))))
