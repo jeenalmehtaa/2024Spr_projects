@@ -20,7 +20,7 @@ def clean_county_data(ev_by_county):
     > extracts only the necessary columns for analysis
     > extracts year from date column
     > extracts only WA state data
-    :param ev_by_county:
+    :param ev_by_county: a dataframe of ev_by_county dataset
     :return: a cleaned dataframe
     """
 
