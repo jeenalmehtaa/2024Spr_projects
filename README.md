@@ -16,9 +16,9 @@ By investigating these hypotheses, we hope to gain insights into the factors inf
 ### Hypotheses
 
 1. Counties in WA State with higher average population density tend to exhibit higher electric vehicle adoption rates.
-2. Counties with higher average incomes are more likely to have a higher proportion of electric vehicles (EVs) than counties with lower average incomes.
-3. Demographics belonging to "Hispanic/Latino" racial group have bought more EVs than other racial groups across all counties. 
-4. In counties where there is a higher average number of students, indicative of greater educational attainment, there will be a corresponding increase in the proportion of electric vehicle (EV) adoption.
+2. In counties where there is a higher average number of students, indicative of greater educational attainment, there will be a corresponding increase in the proportion of electric vehicle (EV) adoption.
+3. Counties with higher average incomes are more likely to have a higher proportion of electric vehicles (EVs) than counties with lower average incomes.
+4. Demographics belonging to "Hispanic/Latino" racial group have bought more EVs than other racial groups across all counties. 
 
 ### References
 
