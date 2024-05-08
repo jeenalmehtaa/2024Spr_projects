@@ -31,3 +31,5 @@ By investigating these hypotheses, we hope to gain insights into the factors inf
 - ChatGPT: https://chat.openai.com/
 - Claude AI: https://claude.ai/chats
 
+### Execution of project
+All datasets used in this project are stored in a folder. Code for data pre-processing performing is saved in the python module named _county.py_. Additionally, code for each hypothesis is stored in individual python modules corresponding to the topic of the hypothesis. For example, Hypothesis 3 refers to _income.py_ for its execution.
