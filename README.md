@@ -1,9 +1,9 @@
 # IS597PR Spring 2024
-## "Electric Vehicle Adoption Analysis: Insights from Washington State"
+## Electric Vehicle Adoption Analysis: Insights from Washington State
 ### By
 
-- Peeya Thacker
 - Jeenal Mehta
+- Peeya Thacker
 
 ### Absract
 
